@@ -52,7 +52,7 @@ global.sdc = 'https://github.com/Bot-Mdnew'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
+global.pdana = '0895417650507'
 global.povo = '081352848936'
 global.pgopay = '081352848936'
 global.ppulsa = '081251549899'
@@ -60,15 +60,15 @@ global.ppulsa2 = '081352848936'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281542613150'
-global.nomorown = '6281251549899'
-global.namebot = 'DaniBotz Ofc'
-global.nameown = 'X Dani Offcial'
+global.nomorbot = '62895417650507'
+global.nomorown = '6289518562932'
+global.namebot = 'VanzzBotz Ofc'
+global.nameown = 'Vanzzy Offcial'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', 'X Dani Offcial', true]
+  ['6289518562932', 'X Dani Offcial', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
